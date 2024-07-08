@@ -1,0 +1,2 @@
+class Roo < ApplicationRecord
+end
