@@ -23,3 +23,4 @@ RSpec.describe 'メッセージ投稿機能', type: :system do
       expect(page).to have_current_path(room_messages_path(@room_user.room))
     end
   end
+end
